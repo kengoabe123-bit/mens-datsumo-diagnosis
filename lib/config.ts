@@ -10,5 +10,5 @@ export const SITE_CONFIG = {
     gradientTo: '#7ec8d8',
     targetAudience: '脱毛に興味のある20〜40代男性',
     questionCount: 7,
-    url: '',
+    url: 'https://mens-datsumo-diagnosis.vercel.app',
 } as const;
