@@ -52,7 +52,7 @@ export const services: Service[] = [
             '追加費用を気にせず通いたい人',
         ],
         affiliateUrl: '#',
-        ctaText: '公式サイトで詳しく見る',
+        ctaText: '詳細を見る',
         color: '#1a1a2e',
     },
     {
@@ -89,7 +89,7 @@ export const services: Service[] = [
             '全身脱毛をお得に受けたい人',
         ],
         affiliateUrl: '#',
-        ctaText: '公式サイトで詳しく見る',
+        ctaText: '詳細を見る',
         color: '#2563eb',
     },
     {
@@ -126,7 +126,7 @@ export const services: Service[] = [
             '大手の安心感を重視する人',
         ],
         affiliateUrl: '#',
-        ctaText: '公式サイトで詳しく見る',
+        ctaText: '詳細を見る',
         color: '#0891b2',
     },
     {
@@ -163,7 +163,7 @@ export const services: Service[] = [
             'トラブル時のサポートを重視する人',
         ],
         affiliateUrl: '#',
-        ctaText: '公式サイトで詳しく見る',
+        ctaText: '詳細を見る',
         color: '#7c3aed',
     },
     {
@@ -200,7 +200,7 @@ export const services: Service[] = [
             '月々の支出を抑えたい人',
         ],
         affiliateUrl: '#',
-        ctaText: '公式サイトで詳しく見る',
+        ctaText: '詳細を見る',
         color: '#059669',
     },
     {
@@ -237,7 +237,7 @@ export const services: Service[] = [
             '1本単位で確実に脱毛したい人',
         ],
         affiliateUrl: '#',
-        ctaText: '公式サイトで詳しく見る',
+        ctaText: '詳細を見る',
         color: '#dc2626',
     },
 ];
